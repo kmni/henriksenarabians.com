@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Henriksen</title>
+<!-- TemplateEndEditable -->
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="../css/default/default.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../css/nivo-slider.css" type="text/css" media="screen" />
+<script type="text/javascript" src="../js/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="outer_top_rept">
+	<div id="outer">
+		<div id="header_area">
+        	<div class="nov_home_nav">
+            	<ul>
+                	<li>&nbsp;</li>
+                    <li>&nbsp;</li>
+                </ul>
+            </div>
+            <div class="nav_area">
+            	<ul>
+                <li><a href="../index.html">Home</a></li>
+                	<li><a href="../about-us.html">About Us</a></li>
+                    <li><a href="../justtice.html">Justtice</a></li>
+                    <li><a href="../sale-horses.html">Sale Horses</a></li>
+                    <li><a href="../mares.html">Mares</a></li>
+                    <li><a href="../foals.html">Foals</a></li>
+                    <li><a href="../news.html">News</a></li>
+                    <li><a href="../hall-of-fame.html">Hall of Fame</a></li>
+                    <li><a href="../contact.html">Contact Us</a></li>
+                </ul>            
+            </div>   
+            <a href="../index.html"><img src="../images/logo.jpg" class="logo" alt="" title="" border="0" /></a>                 
+        </div><!--header_area-->
+		<!-- TemplateBeginEditable name="content" -->
+        <div class="home_wrapper">
+          <div class="slider_area">
+            <div class="slider-wrapper theme-default">
+              <!--<div class="ribbon"></div>-->
+              <div id="slider" class="nivoSlider"> <a href="#"><img src="../images/slider1.jpg" alt="" title="#caption1" /></a> <a href="#"><img src="../images/slider2.jpg" alt="" title="#caption2" /></a> <a href="#"><img src="../images/slider3.jpg" alt="" title="#caption3" /></a> </div>
+            </div>
+          </div>
+          <!--slider_area-->
+          <div class="home_ctn1">
+            <div class=" horse_image"><img src="../images/horse_img.jpg" alt="" border="0" /></div>
+            <h1>The<br />
+              Justtice Legacy</h1>
+            <p>Nonsedis rem. Ossit harum nime doluptatas maios voluptatio. Pari unt et estia volestiis amendi nam doluptur, eumquas nem quid molupis aut utem volupta temque cuptur, cum ne con commo commoditae remodi voluptas maionet landit excescimin non cuptate mquame restrum ius.</p>
+            <p>Aciam inctur apicil ipsum inciae nonsequo blaccaborit eum aut a dolorunt am il iumquid moluptatiant magnis provit magnatur sintius eos cus rehendae voluptas rempera tendipsam, sant inciis et arunto et ommoluptasit posae imos excepta tiosandam, tem eiusanduci simintio.</p>
+            <p class="right"> ◊ <a href="#">view more</a> ◊</p>
+          </div>
+          <div class="home_ctn2"> <img src="../images/img1.jpg" alt="" title="" border="0" />
+            <h2>About <br />
+              Henriksen <br />
+              Arabians</h2>
+            <p>Olestem ium ea cum sequunt otaquibus, cusamusdam, simpori anducil luptur accullis sum rerum quo molupta turerfe rferchi llaborporrum voluptatqui simagnatur? Andunti issimil ibeatem poremodipsam quae. Ratur mincto quae si debis moluptaessim de conestium quatiae rnatio. Labore, ne voluptas repudi sum rescide ritiore ssinisi uteceptatis que in cor accus es quiaspi ducienimus sitibeatqui dolupissi odis a vel modipiciet, que officienis pa dolupta tusdam, testota ipsande perion con nos reium erita qui ommolum dolesti ntibus eicti ium exceris velesequo es essum ipidusam</p>
+            <p class="right"> ◊ <a href="#">view more</a> ◊</p>
+          </div>
+          <div class="home_right_side">
+            <div class="video_gal"><a href="#"><img src="../images/you_tube.jpg" alt="" border="0" /></a></div>
+            <h3>Recent News</h3>
+            <ul>
+              <li>Obis non corem. Exceptibeat at. <span class="link">◊ <a href="#">view more</a> ◊</span> </li>
+              <li>Que poria doluptat officab iur solupti ncidia ipsum eosseni hillaborrum, santion peliqui dolest. <span class="link">◊ <a href="#">view more</a> ◊</span> </li>
+              <li>Nat arcitiu sciiscias inciati repercipis rem nones vide consera tempores maios ariam. <span class="link">◊ <a href="#">view more</a> ◊</span> </li>
+            </ul>
+          </div>
+        </div>
+        <!--home_wrapper-->
+        <!-- TemplateEndEditable -->
+        <div class="footer">
+		  <div class="footer_left">
+            	<h3>Henriksen Arabians</h3>
+                <ul>
+                	<li><a href="../index.html">Home</a></li>
+                    <li><a href="../about-us.html">About Us</a></li>
+                    <li><a href="../justtice.html">Justtice</a></li>
+                    <li><a href="../sale-horses.html">Sale Horses</a></li>
+                    <li><a href="../mares.html">Mares</a></li>
+                    <li><a href="../foals.html">Foals</a></li>
+                    <li><a href="../news.html">News</a></li>
+                    <li><a href="../hall-of-fame.html">Hall of Fame</a></li>
+                    <li><a href="../contact.html">Contact Us</a></li>                                                                            
+                </ul>
+            </div>
+            <div class="footer_right">© designed by <a href="http://www.arabhorse.com" target="_blank">arabhorse.com</a></div>
+		</div><!--footer-->
+	</div>
+</div>
+</body>
+</html>
