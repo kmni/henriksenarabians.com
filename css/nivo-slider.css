@@ -72,11 +72,12 @@
 	z-index:9;
 	cursor:pointer;
 }
-.nivo-prevNav {
-	left:0px;
+a.nivo-prevNav {
+	left: 40px;
 }
-.nivo-nextNav {
-	right:0px;
+a.nivo-nextNav {
+	left: auto;
+	right: 10px;
 }
 /* Control nav styles (e.g. 1,2,3...) */
 .nivo-controlNav a {
@@ -87,6 +88,5 @@
 .nivo-controlNav a.active {
 	font-weight:bold;
 }
-
 
 .dic_area{ width:84px; height:36px; padding:0px 0px 0px 20px; position:absolute; bottom:0px; right:0px; background:url(../images/slider_next_pev_bg.png) no-repeat; z-index:999;}

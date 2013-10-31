@@ -123,7 +123,7 @@
         if(settings.directionNav){
             slider.append('<div class="dic_area">'+'<div class="nivo-directionNav"><a class="nivo-prevNav">'+ settings.prevText +'</a><a class="nivo-nextNav">'+ settings.nextText +'</a></div>'+'</div>');
             
-            $('a.nivo-prevNav', slider).live('click', function(){
+            $(slider).on('click', 'a.nivo-prevNav', function(){
                 if(vars.running) { return false; }
                 clearInterval(timer);
                 timer = '';
@@ -131,7 +131,7 @@
                 nivoRun(slider, kids, settings, 'prev');
             });
             
-            $('a.nivo-nextNav', slider).live('click', function(){
+            $(slider).on('click', 'a.nivo-nextNav', function(){
                 if(vars.running) { return false; }
                 clearInterval(timer);
                 timer = '';
